@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BetterThanPPL",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "NotJerryY.aternos.me",
+    "port": 48651,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Balaplays oru pro player",
+        "Naanathu server kulla vareneh",
         "I like to play Minecraft!"
       ]
     },
